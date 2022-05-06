@@ -1,1 +1,1 @@
-# lyft-interview-app
+This is the sample web app for lyft interview question.
